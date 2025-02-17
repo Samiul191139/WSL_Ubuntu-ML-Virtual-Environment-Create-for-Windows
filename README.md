@@ -40,7 +40,7 @@ TensorFlow 2.10 was the last TensorFlow release that supported GPU on native-Win
 - Left down the corner of vscode, there should be an option to connect to live server. If there is none, install 'live server' extension. After installing, click on the button (left down side of vscode) and connect to WSL.
 
 **Step 13:**
-- Open 'powershell' and create an environment for WSL. use command
+- Open 'wsl' and create an environment for WSL. use command
 ######
         conda create -n <environment name>
 
